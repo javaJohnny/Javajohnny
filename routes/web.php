@@ -16,3 +16,7 @@ Route::get('/', function () {
 });
 
 Route::post('/sendemail', 'SendEmailController@send');
+
+Route::get('/myresume', function () {
+    return view('layouts.resume');
+});

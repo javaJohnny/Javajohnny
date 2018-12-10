@@ -174,7 +174,13 @@ a{
     grid-area:bio;
 }
 .gallery{
-    grid-area:gallery;
+    text-align: center;
+}
+.resume {
+    border: 1px solid black;
+    box-shadow: inset 1px 1px 10px black;
+    padding: 1em;
+    font-size: 2em;
 }
 .span {
     color: red;

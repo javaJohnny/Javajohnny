@@ -22,5 +22,6 @@
         </p>
     </div>
     <div class="gallery">
+        <a href="/myresume" class="resume" target="_blank">My Resume</a>
     </div>
 </div>
